@@ -611,7 +611,9 @@
       flex-direction: column;
       text-align: center;
     }
-    
+    .header-title {
+      font-size: 1rem;
+    }
     nav ul {
       margin-top: 20px;
       justify-content: center;
