@@ -1,13 +1,13 @@
    // ترجمه‌های فارسی و انگلیسی
    const translations = {
     fa: {
-      "header.title": "رزومه زروان",
+      "header.title": "رزومه ابوالفضل نادری",
       "nav.about": "درباره من",
       "nav.skills": "مهارت‌ها",
       "nav.projects": "پروژه‌ها",
       "nav.contact": "تماس",
-      "about.title": "زروان - توسعه‌دهنده فرانت‌اند",
-      "about.text": "سلام! من زروان هستم، یک توسعه‌دهنده فرانت‌اند با بیش از 3 سال تجربه در ایجاد رابط‌های کاربری جذاب و واکنش‌گرا. تخصص اصلی من در تبدیل طرح‌های خلاقانه به کدهای کارآمد و قابل نگهداری است.",
+      "about.title": "ابوالفضل نادری - توسعه دهنه فرانت اند",
+      "about.text": "سلام! من ابوالفضل نادری هستم، یک توسعه‌دهنده فرانت‌اند توانمند در ایجاد رابط‌های کاربری جذاب و واکنش‌گرا. تخصص اصلی من در تبدیل طرح‌های خلاقانه به کدهای کارآمد و قابل نگهداری است.",
       "about.text2": "من به فناوری‌های مدرن وب مانند React, JavaScript (ES6+) و CSS3 مسلط هستم و همیشه در حال یادگیری و به‌روزرسانی مهارت‌هایم می‌باشم.",
       "skills.title": "مهارت‌های تخصصی",
       "skills.subtitle": "تخصص‌ها و توانمندی‌های من در توسعه وب",
@@ -30,13 +30,13 @@
       "footer.text": "© 2023 طراحی و توسعه توسط زروان | کلیه حقوق محفوظ است"
     },
     en: {
-      "header.title": "Zarvan's Resume",
+      "header.title": "AbolfazlNaderi's Resume",
       "nav.about": "About Me",
       "nav.skills": "Skills",
       "nav.projects": "Projects",
       "nav.contact": "Contact",
-      "about.title": "Zarvan - Frontend Developer",
-      "about.text": "Hello! I'm Zarvan, a frontend developer with over 3 years of experience in creating engaging and responsive user interfaces. My specialty is converting creative designs into efficient and maintainable code.",
+      "about.title": "Abolfazl Naderi - Frontend Developer",
+      "about.text": "Hello! I'm Abolfazl Naderi, a front-end developer dedicated to building captivating, responsive UIs. I excel at transforming creative designs into high-performance, maintainable code.",
       "about.text2": "I am proficient in modern web technologies such as React, JavaScript (ES6+), and CSS3, and I am always learning and updating my skills.",
       "skills.title": "Technical Skills",
       "skills.subtitle": "My expertise in web development",
